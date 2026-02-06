@@ -1,16 +1,19 @@
 # secure_vault_flutter
 
-A new Flutter project.
+# Secure Vault 🔐
 
-## Getting Started
+A modern, high-security encryption/decryption web application built with **Flutter**. This tool allows users to safely encode and decode messages using Base64 logic with a sleek, professional user interface.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+* **Real-time Encryption**: Convert plain text into secure encoded strings instantly.
+* **Easy Decryption**: Decode encrypted messages back to their original form.
+* **Modern UI**: Custom-designed interface using a professional color palette:
+  * **Primary Green**: `#23C174` (Action & Success)
+  * **Secondary Blue**: `#4386B5` (Branding & Identity)
+* **Web Optimized**: Fully responsive for browsers like Microsoft Edge and Google Chrome.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+* **Framework**: Flutter (Web Support)
+* **Language**: Dart
+* **Security Logic**: `dart:convert` (UTF-8 & Base64)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
